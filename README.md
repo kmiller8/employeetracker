@@ -5,10 +5,6 @@ Database
 
 ## Built With
 *SQL
-*
-
-## Video
-https://aqueous-garden-24606.herokuapp.com/
 
 
 ## Contribution 
